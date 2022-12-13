@@ -83,13 +83,11 @@ class Mental():
             json.dump(dct, write)
 
 
-def __test__(fun):
-    print(fun)
+# def __test__(fun):
+#     print(fun)
 
 
-if __name__ == "__main__":
-    pass
-    # f = main()
+# if __name__ == "__main__":
     
     # obj = Mental(main())
     # __test__(obj.load_memory()) #test to filename default
